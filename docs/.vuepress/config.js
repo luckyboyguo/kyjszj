@@ -11,7 +11,7 @@ module.exports = {
       { text: "单页", link: "/projects/" },
       { text: "分栏", link: "/guide/" },
       { text: "Markdown Demo", link: "/article/" },
-      { text: "仓库", link: "https://github.com/weipxiu/vuePress" }
+      { text: "仓库", link: "https://github.com/luckyboyguo/kyjszj" }
     ],
     sidebar: {
       // 侧边栏在 /guide/ 上
